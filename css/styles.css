@@ -25,7 +25,6 @@ body {
   font-family: "Open Sans", sans-serif;
   background: var(--violet);
   background-image: url(../images/bg-desktop.svg);
-  /* background-position: left; */
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -42,12 +41,10 @@ h3 {
 }
 /* ===== LAYOUT ===== */
 .logo-container {
-  /* background: blue; */
   width: 100%;
 }
 
 .content-container {
-  /* background: red; */
   width: 100%;
 
   display: flex;
@@ -55,7 +52,6 @@ h3 {
 }
 
 .social-container {
-  /* background: orange; */
   width: 100%;
 }
 /* ===== COMPONENTS ===== */
@@ -63,10 +59,6 @@ h3 {
 .logo {
   width: 12.5rem;
 }
-/* IMAGE */
-/* .image-container {
-  flex-basis: 50%;
-} */
 
 .mockup {
   width: 43.5rem;
@@ -75,7 +67,6 @@ h3 {
 
 /* TEXT */
 .text-container {
-  /* border: 1px solid black; */
   display: flex;
   flex-direction: column;
   color: #fff;
@@ -208,7 +199,6 @@ button:hover {
   .content-container {
     flex-direction: column;
     align-items: center;
-    /* justify-content: stretch; */
   }
 
   .image-container {
