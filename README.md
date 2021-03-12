@@ -42,5 +42,5 @@ Users should be able to:
 ## Author
 
 - Website - [Jeff Jakinovich](http://jeffjakinovich.com/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jljakin2)
+- Frontend Mentor - [@jljakin2](https://www.frontendmentor.io/profile/jljakin2)
 - LinkedIn - [Jeff Jakinovich](https://www.linkedin.com/in/jeff-jakinovich-b6b14943/)
